@@ -1,4 +1,4 @@
-# react-role+group-based-authorization
+# ReactJs Role + Group Based User Authorization
 
 React - Role and Group Based Authorization
 
