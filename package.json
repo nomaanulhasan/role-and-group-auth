@@ -16,7 +16,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^4.1.2",
     "rxjs": "^6.3.3",
-    "yup": "^0.26.10"
+    "yup": "^1.0.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
